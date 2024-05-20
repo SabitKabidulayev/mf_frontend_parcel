@@ -1,18 +1,8 @@
-6273
-103C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist\index.js.map133606736272213160 0
-83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@mischnic133606736230481817 1
-114C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\functional-helpers.js133606736260303169 0
-111C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-tree\cjs\syntax\node\Selector.cjs133606736284113200 0
-123C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133606736292663182 0
-83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\core133606736268093162 1
-116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\aliases-and-guards.d.ts133606736267233160 0
-70C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\style.css133606765694206810 0
-94C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\msgpackr\index.d.cts133606736264343167 0
-126C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133606736268993150 0
+6279
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\ordered-binary\LICENSE133606736258031813 0
 97C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\semver\classes\range.js133606736272983158 0
 129C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133606736298543173 0
-73C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\package.json133606755966400949 0
+73C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\package.json133606769444755478 0
 102C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\nth-check\lib\compile.js.map133606736265823146 0
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\htmlnano\docs\docs\030-config.md133606736279083149 0
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\semver\functions\eq.js133606736266193157 0
@@ -42,7 +32,7 @@
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\svgo\plugins\reusePaths.js133606736282833158 0
 91C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@msgpackr-extract133606753354551344 1
 114C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\transformer-postcss\package.json133606736265393165 0
-65C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist133606766145604663 1
+65C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist133606769570112518 1
 148C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133606736286943180 0
 137C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133606736272213160 0
 105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\source-map\lib\binary-search.js133606736264373165 0
@@ -53,6 +43,7 @@
 94C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\lightningcss\LICENSE133606736258131870 0
 123C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133606736297333161 0
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\resolve-from\readme.md133606736260903138 0
+88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.8353e49f.css.map133606768660373855 0
 87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\timsort\build133606736263743159 1
 84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select133606736280993153 1
 112C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\_\_ts_values\package.json133606736299783169 0
@@ -85,9 +76,12 @@
 130C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\node_modules\entities\lib\decode_codepoint.js133606736259573134 0
 113C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\cjs\_wrap_native_super.cjs133606736282793172 0
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\svgo\lib\svgo\tools.js133606736272343143 0
-71C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\index.html133606765969122342 0
+71C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\index.html133606768399097326 0
 124C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js133606736264733155 0
 101C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-tree\lib\utils\names.js133606736296883212 0
+94C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\postcss-value-parser133606736264153253 1
+105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\regions\AU.js133606736273933176 0
+71C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\style.scss133606768351029092 0
 146C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeOffCanvasPaths.js133606736277873165 0
 146C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133606736296733176 0
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\term-size\vendor\macos\term-size133606736261673160 0
@@ -161,6 +155,11 @@
 159C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js133606736284583164 0
 79C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@lmdb133606753354601343 1
 132C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaFeature.js133606736296553176 0
+103C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist\index.js.map133606736272213160 0
+83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@mischnic133606736230481817 1
+114C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\functional-helpers.js133606736260303169 0
+111C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-tree\cjs\syntax\node\Selector.cjs133606736284113200 0
+123C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133606736292663182 0
 82C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\domutils133606736267743155 1
 81C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel133606753354281337 1
 117C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-clip-path.js133606736293443184 0
@@ -550,8 +549,6 @@
 84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\parcel\lib133606736261253134 1
 105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\regions\TG.js133606736311533180 0
 122C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-initial-letter.js133606736295563199 0
-94C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\postcss-value-parser133606736264153253 1
-105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\regions\AU.js133606736273933176 0
 89C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\posthtml-parser133606736263613163 1
 116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\core\src\requests\DevDepRequest.js133606736280383167 0
 89C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\posthtml-render133606736262073141 1
@@ -720,12 +717,17 @@
 109C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\proxy.js133606736309193183 0
 99C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\SECURITY.md133606736266643197 0
 107C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\postcss-value-parser\lib\index.js133606736259433146 0
+84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.89d72399.css133606769569973193 0
 122C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\node_modules\dom-serializer\README.md133606736266193157 0
 121C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\css-focus-visible.js133606736294833203 0
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\term-size\vendor\macos\.DS_Store133606736259623139 0
 98C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\fs\src\NodeFS.js133606736265423149 0
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\js-yaml\lib\schema\json.js133606736268393163 0
 98C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\SUPPORT.md133606736266893144 0
+83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\core133606736268093162 1
+116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\aliases-and-guards.d.ts133606736267233160 0
+94C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\msgpackr\index.d.cts133606736264343167 0
+126C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133606736268993150 0
 116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\functional-helpers.d.ts133606736267513148 0
 105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\regions\SR.js133606736310613198 0
 113C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\htmlparser2\lib\WritableStream.d.ts.map133606736265993147 0
@@ -2979,6 +2981,7 @@
 124C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\svgo\README.md133606736282393160 0
 127C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133606736292253184 0
 116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\node_modules\entities\readme.md133606736277273155 0
+88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.89d72399.css.map133606769570092490 0
 126C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133606736292343214 0
 119C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-tree\lib\syntax\config\parser-selector.js133606736297393189 0
 111C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\csso\node_modules\css-tree\cjs\walker133606736280933184 1
@@ -3854,7 +3857,7 @@
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\diagnostic\lib133606736263943145 1
 123C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133606736269253149 0
 118C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\filereadersync.js133606736300283187 0
-76C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.html133606766145423771 0
+76C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.html133606769569972145 0
 90C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist133606736277683242 1
 98C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\package.json133606736266853132 0
 108C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133606736274463156 0
@@ -6134,6 +6137,9 @@
 87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.062bfa43.js.map133606756109501462 0
 88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3a01df49.css.map133606765976179428 0
 87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3d214d75.js.map133606765975998273 0
+83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.5a39dbd9.js133606769569973193 0
+87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.5a39dbd9.js.map133606769570092490 0
+84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.8353e49f.css133606768660243058 0
 88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.e2e11bb2.css.map133606766145584689 0
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\mf_frontend_parcel.e31bb0bc.js133606752900725899 0
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\mf_frontend_parcel.e31bb0bc.js.map133606752900795949 0
