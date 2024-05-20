@@ -1,4 +1,4 @@
-6273
+6271
 103C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist\index.js.map133606736272213160 0
 83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@mischnic133606736230481817 1
 114C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\utility-types\dist\functional-helpers.js133606736260303169 0
@@ -42,7 +42,7 @@
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\svgo\plugins\reusePaths.js133606736282833158 0
 91C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@msgpackr-extract133606753354551344 1
 114C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\transformer-postcss\package.json133606736265393165 0
-65C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist133606766145604663 1
+65C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist133606765976199447 1
 148C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133606736286943180 0
 137C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133606736272213160 0
 105C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\source-map\lib\binary-search.js133606736264373165 0
@@ -3854,7 +3854,7 @@
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\diagnostic\lib133606736263943145 1
 123C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133606736269253149 0
 118C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\caniuse-lite\data\features\filereadersync.js133606736300283187 0
-76C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.html133606766145423771 0
+76C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.html133606765976028264 0
 90C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist133606736277683242 1
 98C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\package.json133606736266853132 0
 108C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133606736274463156 0
@@ -5863,7 +5863,6 @@
 103C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\markdown-ansi\LICENSE133606736258091835 0
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\markdown-ansi\test133606736261423148 1
 117C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133606736261643146 0
-84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.e2e11bb2.css133606766145423771 0
 116C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js133606736259433146 0
 70C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\.cache\68133606736711761017 1
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\@parcel\logger\LICENSE133606736258241859 0
@@ -6132,9 +6131,6 @@
 83C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\.bin\svgo133606736320433184 0
 101C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\node_modules\.bin\update-browserslist-db133606736320443173 0
 87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.062bfa43.js.map133606756109501462 0
-88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3a01df49.css.map133606765976179428 0
-87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3d214d75.js.map133606765975998273 0
-88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.e2e11bb2.css.map133606766145584689 0
 96C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\mf_frontend_parcel.e31bb0bc.js133606752900725899 0
 100C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\mf_frontend_parcel.e31bb0bc.js.map133606752900795949 0
 84C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\style.97fcb138.css133606748929807423 0
@@ -6272,3 +6268,5 @@
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\.cache\b8\6ee085402364fdfb623e1f71fb0117.json133606748904111364 0
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\.cache\32\f7ba70492a4971e8338ac2ee84f69b.json133606752900695874 0
 106C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\.cache\22\d9eeee51b56588fb8defaf522b6fa4.json133606748929797425 0
+87C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3d214d75.js.map133606765975998273 0
+88C:\Users\skabi\Desktop\projects\myFreedom\mf_frontend_parcel\dist\index.3a01df49.css.map133606765976179428 0
